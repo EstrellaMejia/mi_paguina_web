@@ -1,0 +1,40 @@
+body{
+	background-image:url("../img/lilaaaa.avif") ;
+}
+#titulo{
+	color: purple;
+	text-align: center;
+}
+img{
+	width: 15%;
+	height: 15%;
+}
+h1,p{
+	color: red;
+	font-size: 30px;
+	font-family: Comic Sans MS;
+}
+p {
+   color: black;
+   font-size: 25px;
+   font-family:Verdana ;
+
+}
+ul{
+
+	color: red;
+	font-size:20px;
+	font-family: Comic Sans MS;
+	list-style: square;
+
+}
+a{
+  color: purple;
+  text-decoration:none;
+
+}
+a:hover{
+
+	color: red;
+	font-size: 25px;
+}
